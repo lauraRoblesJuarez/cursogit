@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32616.157
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoWebApi", "CursoWebApi\CursoWebApi.csproj", "{75D35D99-EAD8-4D81-A71C-294AB36F5117}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoWebApi", "CursoWebApi\CursoWebApi.csproj", "{3B528035-2C4F-4D3D-9166-1169E7E7EAA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{75D35D99-EAD8-4D81-A71C-294AB36F5117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75D35D99-EAD8-4D81-A71C-294AB36F5117}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75D35D99-EAD8-4D81-A71C-294AB36F5117}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75D35D99-EAD8-4D81-A71C-294AB36F5117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B528035-2C4F-4D3D-9166-1169E7E7EAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B528035-2C4F-4D3D-9166-1169E7E7EAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B528035-2C4F-4D3D-9166-1169E7E7EAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B528035-2C4F-4D3D-9166-1169E7E7EAA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B0786B22-21D4-4F68-A461-E4A7C7C78E51}
+		SolutionGuid = {B240F58C-D457-4884-8F0F-27C07F7D607E}
 	EndGlobalSection
 EndGlobal
