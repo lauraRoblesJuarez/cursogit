@@ -18,7 +18,7 @@ namespace CursoWebApi.Controllers
         // GET: api/Home/5
         public string Get(int id)
         {
-            return "value";
+            return "Huevos Nanichitach";
         }
 
         // POST: api/Home
